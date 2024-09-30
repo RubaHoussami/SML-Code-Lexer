@@ -27,7 +27,7 @@ The **SML Code Lexer** is a lexer for Standard ML (SML) code that converts SML s
     cd SML-Code-Lexer
     ```
 
-2. **Create an SML file if you do not want to use the example test.sml:**
+2. **Create an SML file if you do not want to use the example test.sml**
   
 3. **To run using lex.yy.c:**
       - Navigate to the main function at the end of the C file and customize the input and output file names.
@@ -35,8 +35,8 @@ The **SML Code Lexer** is a lexer for Standard ML (SML) code that converts SML s
 
 4. **To run using lex.yy.exe:**
       - Open terminal in the root directory.
-      - Run ```lex.yy.exe input_file.sml output_file.html``` for custom input and output files.
-      - Run ```lex.yy.exe input_file.sml``` for custom input file and test.html output file.
+      - Run ```.\lex.yy.exe input_file.sml output_file.html``` for custom input and output files.
+      - Run ```.\lex.yy.exe input_file.sml``` for custom input file and test.html output file.
 
 5. **Open the HTML output file**
 
